@@ -1,0 +1,1 @@
+This project is designed to handle medication and vital records of critically ill patients. 
